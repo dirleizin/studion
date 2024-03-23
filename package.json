@@ -1,0 +1,27 @@
+{
+  "name": "studion",
+  "version": "0.0.1",
+  "description": "Home page for Studion event and services",
+  "main": "scr/index.html\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001brc\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dirleizin/studion.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Javacript\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Ds\u001b[cript"
+  ],
+  "author": "ALDIRLEI CAMOPOS\u001b[D\u001b[D\u001b[\u001b[\u001b[\u001b[C\u001b[C\u001b[POS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dirleizin/studion/issues"
+  },
+  "homepage": "https://github.com/dirleizin/studion#readme",
+  "devDependencies": {
+    "live-server": "^1.1.0"
+  }
+}
